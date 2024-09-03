@@ -6,7 +6,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - I am a Master's student studying Data Science at Northeastern University, Boston
-- I did my undergraduate degree in ELectrical and ELectronics engineering
+- I did my undergraduate degree in Electrical and Electronics engineering
 - I have 1 year of work experience in Data Analytics
 - I am a AI/ ML enthusiast currently exploring large language models
 - I am an active member of the women of color in STEM community and am involved in leadership positions of various student organizations
