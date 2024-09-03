@@ -56,3 +56,10 @@
 - Link: <a href="https://github.com/ritikakumar0204/DS5010-Final-Project"> Who wrote this</a>
 
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Let's connect!
+
+<p align="center">
+<a href="www.linkedin.com/in/ritika-kumar-98a393191"><img src="https://img.shields.io/badge/-Ritika%20Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:kumar.riti@northeastern.edu"><img src="https://img.shields.io/badge/-kumar.riti@northeastern.edu-D14836?style=flat&logo=mail&logoColor=white"/></a>
+</p>
+
