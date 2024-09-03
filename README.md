@@ -16,12 +16,20 @@
 ####  Languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Tensorflow](https://img.shields.io/badge/Tensorflow-3670A0?style=for-the-badge&logoColor=ffdd90)&nbsp;
-![PyTorch](https://img.shields.io/badge/Pytorch-3670A0?style=for-the-badge&logoColor=e7aa9d )&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+
+####  Libraries:
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Tensorflow](https://img.shields.io/badge/Tensorflow-3670A0?style=for-the-badge&logoColor=ffdd90)&nbsp;
+![PyTorch](https://img.shields.io/badge/Pytorch-e7aa9d?style=for-the-badge&logoColor=e7aa9d )&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23323330.svg?style=for-the-badge)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-%23ED8B00.svg?style=for-the-badge)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-%2300599C.svg?style=for-the-badge)&nbsp;
+![Numpy](https://img.shields.io/badge/Numpy-%2300599C.svg?style=for-the-badge)&nbsp;
 
 #### Databases
 
@@ -35,3 +43,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Pycharm](https://img.shields.io/badge/Pycharm-0078d7.svg?style=for-the-badge)&nbsp;
