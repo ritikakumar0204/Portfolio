@@ -44,3 +44,15 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Pycharm](https://img.shields.io/badge/Pycharm-0078d7.svg?style=for-the-badge)&nbsp;
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Projects I have worked on! </b>
+
+#### Exploring Cross-lingual Capabilities of Pre-trained language models for Translation Tasks
+- Technologies used: Transformers, Huggingface, Pytorch, NLP, LLM, LLama-2, Helsinki/opusmt models, mBART50, scikitlearn, Google Colab, Kaggle
+- Link: <a href="https://github.com/Varsha-Ranganathan/CrossLingual-Translation-Models"> CrossLingual-Translation-Models</a>
+
+#### AI vs Human generated Text Detection using LLM word embeddings
+- Technologies used: Python, Pandas, NLP, GPT-2, Instructor-XL, Bert-based-uncased, Supervised machine learning, AdaBoost, XGBoost, Light GBM
+- Link: <a href="https://github.com/ritikakumar0204/DS5010-Final-Project"> Who wrote this</a>
+
+
