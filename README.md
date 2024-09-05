@@ -55,6 +55,11 @@
 - Technologies used: Python, Pandas, NLP, GPT-2, Instructor-XL, Bert-based-uncased, Supervised machine learning, AdaBoost, XGBoost, Light GBM
 - Link: <a href="https://github.com/ritikakumar0204/DS5010-Final-Project"> Who wrote this</a>
 
+#### E.Coli Detection using DNA Sequencing
+- Technologies used: Python, Pandas, MLP Classifier, Scikit-Learn, Supervised machine learning, AWS EC2, Django
+- Link: <a href="https://github.com/ritikakumar0204/E.Coli-Detection-Using-DNA-Sequencing"> E.Coli Detection using DNA Sequencing</a>
+
+
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Let's connect!
 
