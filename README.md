@@ -59,6 +59,9 @@
 - Technologies used: Python, Pandas, MLP Classifier, Scikit-Learn, Supervised machine learning, AWS EC2, Django
 - Link: <a href="https://github.com/ritikakumar0204/E.Coli-Detection-Using-DNA-Sequencing"> E.Coli Detection using DNA Sequencing</a>
 
+#### Multi Class Classification using MNIST Fashion Dataset 
+- Technologies used: Python, Pandas, Scikit-Learn, Supervised machine learning, Streamlit
+- Link: <a href="https://github.com/ritikakumar0204/MNIST-Fashion--Multi-Class-Classification/blob/main/mnist_fashion.py">Multi Class Classification using MNIST Fashion Dataset  </a>
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Let's connect!
